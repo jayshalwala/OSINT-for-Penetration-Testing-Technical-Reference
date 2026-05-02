@@ -1,4 +1,4 @@
-# OSINT for Penetration Testing — Technical Reference
+# OSINT for Penetration Testing - Technical Reference
 
 A comprehensive, hands-on reference for Open Source Intelligence (OSINT) methodologies, tools, and techniques used in professional penetration testing engagements. Built from real-world research and lab work while preparing for the **Practical Network Penetration Tester (PNPT)** certification by TCM Security.
 
